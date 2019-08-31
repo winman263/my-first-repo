@@ -1,26 +1,24 @@
-# This is a large heading
+# Fred Nerk
 
-## This is a smaller heading
+### I live in the city of Sydney, in the state of New South Wales, in Australia.
 
-And as **imagination** bodies forth, The forms of things *unknown*, the 
-poet’s pen, Turns them to shapes and gives to airy nothing, A local 
-*habitation* and a **name**.
+### Reading
 
-- This is
-- an unordered
-- list
+Three of my favour books are:
 
-1. This is
-2. an ordered
-3. list
+- *Moby Dick* by Herman Melville
+- *1984* by George Orwell
+- *Catch 22* by Joseph Heller
 
-Here is `some code` in the middle of a sentence.
+### Food
 
-```
-This is
-a block of code
-```
-Here is how you make [a link](https://www.wikipedia.org/).
+Last night I dreamt about eating in restaurants:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. MacDonalds in Brisbane.
+2. Hungry Jacks in Melbourne.
+3. Subway in Adelaide.
+
+### Contact
+
+The best way to get in contact with me is by telepathy.
 
